@@ -1,2 +1,2 @@
 # hello-world
-hello world tutorial project
+This is a tutorial project to get familiar with github.
